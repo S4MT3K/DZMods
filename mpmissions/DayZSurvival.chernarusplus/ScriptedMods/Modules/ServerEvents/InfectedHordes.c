@@ -23,12 +23,12 @@ class InfectedHordes
 	void InfectedHordes()
 	{
 		//All possible spawn points of hordes
-		m_HordePositions.Insert( "Severograd", "8428 0 12767" ); //string Name of location, vector centre position
+	m_HordePositions.Insert( "Severograd", "8428 0 12767" ); //string Name of location, vector centre position
         m_HordePositions.Insert( "Stary", "6046 0 7733" );
         m_HordePositions.Insert( "Vybor", "3784 0 8923" );
         m_HordePositions.Insert( "NWAFS", "4540 0 9645" );
-		m_HordePositions.Insert( "NWAFC", "4823 0 10457" );
-		m_HordePositions.Insert( "NWAFN", "4214 0 10977" );
+	m_HordePositions.Insert( "NWAFC", "4823 0 10457" );
+	m_HordePositions.Insert( "NWAFN", "4214 0 10977" );
         m_HordePositions.Insert( "Balota Air Strip", "4467 0 2496" );
         m_HordePositions.Insert( "Cherno City Centre", "6649 0 2710" );
         m_HordePositions.Insert( "Cherno West", "6374 0 2361" );
